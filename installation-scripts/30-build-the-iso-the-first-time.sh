@@ -29,9 +29,9 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	arcolinuxVersion='v24.01.02'
+	arcolinuxVersion='v24.01.03'
 
-	isoLabel='arcolinuxs-rt-'$arcolinuxVersion'-x86_64.iso'
+	isoLabel='arcolinuxs-hardened-'$arcolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 73-1"

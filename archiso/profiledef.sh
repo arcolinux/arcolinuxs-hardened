@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="arcolinuxs-rt"
-iso_label="arcolinuxs-rt-v24.01.02"
+iso_name="arcolinuxs-hardened"
+iso_label="arcolinuxs-hardened-v24.01.03"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
-iso_version="v24.01.02"
+iso_version="v24.01.03"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
